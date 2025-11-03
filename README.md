@@ -28,9 +28,9 @@ Step 5:
 Split the image (boy.jpg) into B, G, R components and display the channels
 
 Program Developed By:
-Name: HARIHARAN J
+Name: YUVAN M
 
-Register Number: 212223240047
+Register Number: 212223240188
 
 Ex. No. 01
 1. Read the image ('Eagle_in_Flight.jpg') using OpenCV imread().
@@ -211,3 +211,4 @@ image
 
 Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
+
